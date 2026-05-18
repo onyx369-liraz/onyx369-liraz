@@ -5,91 +5,91 @@ I'm building ONYX369.ai — an AI Growth System and operating layer for business
 ONYX is designed to help businesses coordinate:
 
 - lead intake
-- - AI receptionist flows
-  - - proposals
-    - - onboarding
-      - - follow-ups
-        - - content systems
-          - - operational intelligence
-            - - founder-approved automation
-             
-              - My focus is simple:
-             
-              - Build systems that work quietly, professionally, and consistently — so businesses can grow without chaos.
-             
-              - ---
+- AI receptionist flows
+- proposals
+- onboarding
+- follow-ups
+- content systems
+- operational intelligence
+- founder-approved automation
 
-              ## ONYX369.ai
+My focus is simple:
 
-              ONYX369.ai is being built as a premium AI command center for business growth and operations.
+Build systems that work quietly, professionally, and consistently — so businesses can grow without chaos.
 
-              The vision:
+---
 
-              **Founder → ONYX Core Brain → Operator Layer → Specialized Agents → Business Execution**
+## ONYX369.ai
 
-              Current modules include:
+ONYX369.ai is being built as a premium AI command center for business growth and operations.
 
-              - AI Receptionist
-              - - Proposal Command Center
-                - - Onboarding flows
-                  - - Content and SEO Command Center
-                    - - Agent governance
-                      - - Admin Brain / decision layer
-                        - - Operator-layer experiments using Claude, Ruflo, MCP, and safe dry-run workflows
-                         
-                          - ---
+The vision:
 
-                          ## Current Focus
+**Founder → ONYX Core Brain → Operator Layer → Specialized Agents → Business Execution**
 
-                          I'm currently focused on:
+Current modules include:
 
-                          - making ONYX369 client-demo ready
-                          - - building safe multi-agent workflows
-                            - - improving premium UX and trust
-                              - - validating fast-revenue AI service offers
-                                - - creating systems that can eventually run with founder approval, not founder exhaustion
-                                 
-                                  - ---
+- AI Receptionist
+- Proposal Command Center
+- Onboarding flows
+- Content and SEO Command Center
+- Agent governance
+- Admin Brain / decision layer
+- Operator-layer experiments using Claude, Ruflo, MCP, and safe dry-run workflows
 
-                                  ## Agent Systems
+---
 
-                                  ONYX369 is built around coordinated AI agents, not isolated tools.
+## Current Focus
 
-                                  Each agent has a defined scope, a governed role, and a clear boundary.
+I'm currently focused on:
 
-                                  The architecture is designed so the founder stays in control — approving, auditing, and directing — while agents handle execution.
+- making ONYX369 client-demo ready
+- building safe multi-agent workflows
+- improving premium UX and trust
+- validating fast-revenue AI service offers
+- creating systems that can eventually run with founder approval, not founder exhaustion
 
-                                  Current agent stack includes intake agents, proposal agents, onboarding agents, content agents, and a central decision layer.
+---
 
-                                  ---
+## Agent Systems
 
-                                  ## Founder Philosophy
+ONYX369 is built around coordinated AI agents, not isolated tools.
 
-                                  I believe the next wave of AI companies will not be simple chatbot wrappers.
+Each agent has a defined scope, a governed role, and a clear boundary.
 
-                                  They will be operating systems.
+The architecture is designed so the founder stays in control — approving, auditing, and directing — while agents handle execution.
 
-                                  Quiet systems.
+Current agent stack includes intake agents, proposal agents, onboarding agents, content agents, and a central decision layer.
 
-                                  Governed systems.
+---
 
-                                  Useful systems.
+## Founder Philosophy
 
-                                  Systems that protect the founder, serve the client, and turn chaos into execution.
+I believe the next wave of AI companies will not be simple chatbot wrappers.
 
-                                  That is what I'm building with ONYX369.
+They will be operating systems.
 
-                                  ---
+Quiet systems.
 
-                                  ## Links
+Governed systems.
 
-                                  - Website: [onyx369.ai](https://onyx369.ai)
-                                  - - LinkedIn: [Liraz Baleli](https://www.linkedin.com/in/liraz-baleli-417a49352)
-                                   
-                                    - ---
+Useful systems.
 
-                                    ## Contact
+Systems that protect the founder, serve the client, and turn chaos into execution.
 
-                                    Building something that needs AI growth infrastructure, an AI receptionist, or a smarter operating layer?
+That is what I'm building with ONYX369.
 
-                                    Reach out via [onyx369.ai](https://onyx369.ai) or connect on LinkedIn.
+---
+
+## Links
+
+- Website: [onyx369.ai](https://onyx369.ai)
+- LinkedIn: [Liraz Baleli](https://www.linkedin.com/in/liraz-baleli-417a49352)
+
+---
+
+## Contact
+
+Building something that needs AI growth infrastructure, an AI receptionist, or a smarter operating layer?
+
+Reach out via [onyx369.ai](https://onyx369.ai) or connect on LinkedIn.
